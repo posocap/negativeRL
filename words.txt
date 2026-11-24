@@ -1,0 +1,14 @@
+# One word per line; '#' starts a comment. Whole-word match, plus s/es/ing/in/ed/er/ers/y variants.
+fuck
+shit
+bitch
+bastard
+asshole
+damn
+dammit
+crap
+dick
+piss
+bullshit
+motherfucker
+goddamn

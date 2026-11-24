@@ -1,0 +1,5 @@
+numpy
+sounddevice
+sherpa-onnx
+vosk
+gpiozero   # Pi only

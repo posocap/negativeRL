@@ -1,0 +1,6 @@
+.env
+*.npy
+*.onnx
+models/
+__pycache__/
+KILL
